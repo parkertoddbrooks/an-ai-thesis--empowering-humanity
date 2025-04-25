@@ -65,7 +65,7 @@ The most effective leaders in this space will combine technical knowledge with r
 ### Manufacturing Innovation at Scale
 At Siemens, Dr. Norbert Gaus, Head of Research in Digitalization and Automation, spearheaded the implementation of AI-driven "digital twin" technology that allows engineers to simulate and optimize manufacturing processes before physical implementation. This AI-augmented approach reduced development time by up to 50% and positioned Gaus as a transformative leader in industrial digital innovation.
 
-[Source: Siemens Digital Twin Technology](https://press.siemens.com/global/en/pressrelease/siemens-and-nvidia-expand-partnership-enable-industrial-metaverse-and-increase-use)
+[Source: Siemens Digital Twin Technology](https://press.siemens.com/global/en/pressrelease/siemens-and-nvidia-partner-enable-industrial-metaverse)
 
 ### Healthcare Solutions Development
 Dr. Eric Topol, cardiologist and founder of the Scripps Research Translational Institute, leveraged AI tools to develop new approaches to personalized medicine. Despite not being a computer scientist, Topol used AI systems to analyze complex health data, leading to groundbreaking work in medical AI. His ability to bridge clinical expertise with AI capabilities propelled him to become one of healthcare's most influential voices on medical innovation.
