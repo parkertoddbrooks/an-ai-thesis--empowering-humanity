@@ -1,5 +1,5 @@
 # An AI Thesis: Empowering Humanity
-## v2025-04-25--14-27-06
+**v2025-04-25--14-27-06**
 
 ## The AI-Assisted Innovation Revolution
 
